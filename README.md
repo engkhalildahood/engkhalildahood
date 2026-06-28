@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Khalil Dahood
 
-<!--
-**engkhalildahood/engkhalildahood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 QA Engineer (Aspiring)
 
-Here are some ideas to get you started:
+Passionate about Software Testing and Quality Assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Manual Testing
+- Test Cases
+- Bug Reporting
+- SDLC / STLC Basics
+- Learning API Testing & Automation
+
+## 📌 Goals
+- Become QA Automation Engineer
+- Learn .NET Development
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/khalil-dahood-636b79416?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Email: engkhalildahood1@gmail.com
+
+⚡ I enjoy finding bugs before users do 😄
